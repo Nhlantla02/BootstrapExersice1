@@ -1,0 +1,18 @@
+body{
+    background-color: #05303a;
+}
+
+
+table, td {
+    border: 1px solid rgb(30, 73, 71);
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #145c63;
+    text-transform: uppercase;
+  }
+  img{
+    min-width: 300px;
+    max-width: 700px;
+  }
+  
